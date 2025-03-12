@@ -1,0 +1,7 @@
+/* this is the css of the start */
+h1{
+    font-weight: bold;
+    font-size: larger;
+    color: darkred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
